@@ -13,7 +13,7 @@ package pboif2.pkg10119067.latihan2.deklarasivariabel;
  * NIM      : 10119067
  * Deskripsi Program : Deklarasi & Pengaksesan
  */
-public class PBOIF210119067Latihan1Biodata {
+public class PBOIF210119067 {
  //NAMA_KAMBING sebagai konstanta
     public static final String NAMA_KAMBING = "MIDUN";
     
